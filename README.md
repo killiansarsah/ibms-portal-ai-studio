@@ -1,6 +1,6 @@
 # IBMS Ghana - Insurance Broker Management System
 
-Professional insurance broker management system tailored for the Ghanaian insurance market, compliant with NIC regulations.
+1. Professional insurance broker management system tailored for the Ghanaian insurance market, compliant with NIC regulations.
 
 ## 🏗️ Project Structure
 
